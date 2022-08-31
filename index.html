@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <title>Blackjack - Created by Sidharth Das</title>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="index.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        
+    </head>
+    <body>
+        <h1  >Blackjack</h1>
+        <p id="message-el">Want to play a round?</p>
+        <p id="cards-el">Cards:</p>
+        <p id="sum-el">Sum:</p>
+        <button onclick="startGame()">START GAME</button>
+        <button onclick="newCard()">NEW CARD</button><br><br>
+        <p id="player-el">Name:</p>
+        <fieldset class="fieldset-auto-width">
+            <legend>ℹ️ Instructions:</legend>
+                <p>1) Click "START GAME" button to enter the casion &nbsp; ♠️</p>
+                <p>2) The card number ranges from 1 to 13 &nbsp; #️⃣ </p>
+                <p>3) If the sum of two cards is less than 21, you can draw a new card &nbsp; 🃏 </p>
+                <p>4) If the sum of two cards is greater than 21, you are out of the game &nbsp; 😞 </p>
+                <p>5) If the sum of two cards is equal 21, you've a Blackjack! &nbsp; 💰 </p>
+        </fieldset>
+        <div class ="social"><a href="#"><i class="fa fa-github" style="font-size:48px;color:white"></i></a></div>
+    </body>
+    <footer>
+        <p>Created By: Sidharth Das</p><br>
+    </footer>
+    <script src="index.js"></script>
+    
+</html>
