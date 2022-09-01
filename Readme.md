@@ -1,6 +1,11 @@
 ## Welcome to Blackjack
 
 Blackjack is a casino banking game. The most widely played casino banking game in the world, it uses decks of 52 cards and descends from a global family of casino banking games known as Twenty-One.
+This is a simple Javascript simulation of the famous Blackjack game.
+
+#### Play Demo
+
+Please click start to play - [Start] (https://sdas-engineer.github.io/blackjack-js/)
 
 #### Instructions
 
