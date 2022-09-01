@@ -5,7 +5,7 @@ This is a simple Javascript simulation of the famous Blackjack game.
 
 #### Play Demo
 
-Please click start to play - [Start](https://sdas-engineer.github.io/blackjack-js/)
+Please click "PLAY HERE to enter the casino - [PLAY HERE](https://sdas-engineer.github.io/blackjack-js/)
 
 #### Instructions
 
