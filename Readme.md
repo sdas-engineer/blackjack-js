@@ -18,3 +18,11 @@ Please click "PLAY HERE" to enter the casino - [PLAY HERE](https://sdas-engineer
 - If the sum of two cards is equal 21, you've a Blackjack!
 
 Happy playing!
+
+## Contributing
+
+If you wish to submit improvements to the HTML, or the CSS, then I welcome forks & pull requests.
+
+## License
+
+Browser Bookmark is released under [MIT](https://choosealicense.com/licenses/mit/) license.
